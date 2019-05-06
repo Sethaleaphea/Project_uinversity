@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Uinversity guide</string>
+    <string name="school_name">National Institute of Posts, Telecoms and ICT</string>
+    <string name="email">niptict.edu@gmail.com</string>
+    <string name="phone">010 123 456</string>
+    <string name="website">niptict.edu.com.kh</string>
+    <string name="edit_profile">Change Profile Photo</string>
+    <string name="about_school">National Institute of Posts Telecoms and Networking is a newly
+established institute, found in January 2014,which is under supervision of Ministry of Posts and Telecommunications of Cambodia
+and its mission on formal education,training, research and development of posts, telecoms and information communication technology.</string>
+</resources>
